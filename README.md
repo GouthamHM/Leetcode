@@ -7,3 +7,4 @@ Repository to solve leetcode problems using python programming language : Python
 5. longest_palindrome.py: https://leetcode.com/problems/longest-palindromic-substring/description/
 6. zigzagstring.py: https://leetcode.com/problems/zigzag-conversion/description/
 7. reverse_int.py: https://leetcode.com/problems/reverse-integer/description
+8. atoi.py: https://leetcode.com/problems/string-to-integer-atoi/description/
